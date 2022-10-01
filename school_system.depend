@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1664458884 source:d:\projects\c\school_system\algorithms.c
+	"student.h"
+	"school.h"
+
+1664633247 source:d:\projects\c\school_system\array.c
+
+1664093853 source:d:\projects\c\school_system\basics.c
+
+1664093853 source:d:\projects\c\school_system\bit_wise_operations.c
+
+1664633130 source:d:\projects\c\school_system\string.c
+
+1664093853 source:d:\projects\c\school_system\struc.c
+	"struc.h"
+
+1664093853 d:\projects\c\school_system\struc.h
+
+1664633170 source:d:\projects\c\school_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algorithms.h"
+	"array.h"
+	"string.h"
+	"interface.h"
+	"student.h"
+	"school.h"
+
+1664093853 d:\projects\c\school_system\algorithms.h
+
+1664093853 d:\projects\c\school_system\array.h
+
+1664093853 d:\projects\c\school_system\basics.h
+
+1664093853 d:\projects\c\school_system\bit_wise_operations.h
+
+1664632845 source:d:\projects\c\school_system\interface.c
+	"interface.h"
+	"student.h"
+	"school.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1664627684 d:\projects\c\school_system\interface.h
+
+1664094982 d:\projects\c\school_system\string.h
+
+1664454059 d:\projects\c\school_system\student.h
+
+1664447829 d:\projects\c\school_system\school.h
+
+1664633267 source:d:\projects\c\school_system\school.c
+	"student.h"
+	"school.h"
+	"interface.h"
+
+1664628062 source:d:\projects\c\school_system\student.c
+	"student.h"
+	"string.h"
+	"array.h"
+	"school.h"
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1664447384 d:\projects\c\school_system\school.c
+	"school.h"
+
